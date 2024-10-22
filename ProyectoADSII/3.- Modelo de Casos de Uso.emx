@@ -853,6 +853,15 @@
       <memberEnd href="#_KweTIJBDEe-Aioj3JfANzw?3.-%20Modelo%20de%20Casos%20de%20Uso/Actores/%3CAssociation%3E/cI%20Datos%20Técnicos%20del%20Proyecto?"/>
       <memberEnd href="4.-%20Modelo%20de%20Análisis.emx#_Kwe6MJBDEe-Aioj3JfANzw?4.-%20Modelo%20de%20Análisis/Solicitud/CI%20Datos%20Técnicos%20del%20Proyecto/administrado%2FSolicitante?"/>
     </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_qwQjUJBgEe-t7psIXOwLVg" navigableOwnedEnd="_qwTmoJBgEe-t7psIXOwLVg">
+      <ownedEnd xmi:id="_qwTmoJBgEe-t7psIXOwLVg" name="cI Subir Archivos" visibility="private" association="_qwQjUJBgEe-t7psIXOwLVg">
+        <type xmi:type="uml:Class" href="4.-%20Modelo%20de%20Análisis.emx#_jRHRMJBgEe-t7psIXOwLVg?4.-%20Modelo%20de%20Análisis/Solicitud/CI%20Subir%20Archivos?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qwVb0ZBgEe-t7psIXOwLVg" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qwVb0JBgEe-t7psIXOwLVg" value="1"/>
+      </ownedEnd>
+      <memberEnd href="#_qwTmoJBgEe-t7psIXOwLVg?3.-%20Modelo%20de%20Casos%20de%20Uso/Actores/%3CAssociation%3E/cI%20Subir%20Archivos?"/>
+      <memberEnd href="4.-%20Modelo%20de%20Análisis.emx#_qwWp8JBgEe-t7psIXOwLVg?4.-%20Modelo%20de%20Análisis/Solicitud/CI%20Subir%20Archivos/administrado%2FSolicitante?"/>
+    </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_bAafoIzZEe-LQZsrG7dLMw" name="Casos de Uso">
     <eAnnotations xmi:id="_bAbGsIzZEe-LQZsrG7dLMw" source="uml2.diagrams" references="_bAbGsYzZEe-LQZsrG7dLMw">
